@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A shiny dandelion](http://www.oldfashionedfamilies.com/wp-content/uploads/2015/04/Dandelion_sun.jpg)
